@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2025, 12_01_41 PM" src="https://github.com/user-attachments/assets/75e9ee56-70da-4a08-9b50-ee31bfde057d" /><img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2025, 12_01_41 PM" src="https://github.com/user-attachments/assets/68cf9643-869f-4407-a6d2-6aa246241a32" /><img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2025, 12_01_46 PM (2)" src="https://github.com/user-attachments/assets/f58cee29-2124-4894-990a-718b68127c14" />React URL Shortener (Student-Style)
+<img width="1536" height="1024" alt="ChatGPT Image Sep 4, 2025, 12_01_41 PM" src="https://github.com/user-attachments/assets/75e9ee56-70da-4a08-9b50-ee31bfde057d" />React URL Shortener (Student-Style)
 
 A client-side React web app for creating short URLs with optional custom shortcodes. All data is stored in localStorage, so no backend is required. Includes logging, analytics, and URL management.
 
